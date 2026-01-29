@@ -29,5 +29,5 @@
 
 ---
 <div align="center">
-  <sub>Managed by NJU IS Students. Not officially affiliated with Nanjing University.</sub>
+  <sub>NJU IS Students</sub>
 </div>

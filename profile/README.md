@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://njuis-students.github.io">进入知识库 (Wiki)</a> •
-    <a href="njuis_stu@163.com ">联系我们</a>
+    <a href="mailto:njuis_stu@163.com">联系我们</a>
   </p>
 </div>
 

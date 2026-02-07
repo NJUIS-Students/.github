@@ -38,14 +38,7 @@
 
 <div align="center">
 
-## 📊 社区实时动态
 
-<!-- 4. 动态数据统计 (自动更新) -->
-<!-- 注意：如果显示 Error，请确保组织内有公开仓库 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NJUIS-Students&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=6A005F&icon_color=6A005F&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJUIS-Students&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=6A005F&langs_count=6" height="150" alt="languages" />
-</p>
 
 ### 🏆 核心仓库
 

@@ -57,32 +57,13 @@
 
 <br/>
 
-## 🐍 活跃度 (Contribution Snake)
-
-<div align="center">
-  <!-- 5. 贪吃蛇动画引用 -->
-  <!-- ⚠️ 注意：这需要你配置好 .github/workflows/snake.yml 并成功运行一次后才会显示 -->
-  <!-- 如果图片裂开，说明 workflow 还没运行，或者分支名不叫 output -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NJUIS-Students/.github/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NJUIS-Students/.github/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NJUIS-Students/.github/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 <div align="center">
   <h3>🤝 加入我们</h3>
   <p>这是一个完全由学生驱动的社区。无论你是大一新生还是已经毕业的校友，只要你愿意分享，我们都欢迎你！</p>
   
-  <!-- 6. 动态贡献者墙 -->
-  <a href="https://github.com/NJUIS-Students/Resources/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=NJUIS-Students/Resources" />
-  </a>
-</div>
 
-<!-- 7. 底部动态波浪 -->
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A005F&height=100&section=footer&animation=fadeIn" width="100%" />
 <br>

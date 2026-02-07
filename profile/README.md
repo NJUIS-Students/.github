@@ -36,20 +36,6 @@
 
 ---
 
-<div align="center">
-
-
-
-### 🏆 核心仓库
-
-| **📖 知识库 (Wiki)** | **💾 课程资料 (Resources)** |
-| :---: | :---: |
-| <a href="https://github.com/NJUIS-Students/njuis-students.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NJUIS-Students&repo=njuis-students.github.io&theme=dracula&bg_color=0d1117&border_color=6A005F&icon_color=6A005F&title_color=ffffff" alt="Wiki Stats" /></a> | <a href="https://github.com/NJUIS-Students/Resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NJUIS-Students&repo=Resources&theme=dracula&bg_color=0d1117&border_color=6A005F&icon_color=6A005F&title_color=ffffff" alt="Resources Stats" /></a> |
-
-</div>
-
-<br/>
-
 
 <div align="center">
   <h3>🤝 加入我们</h3>

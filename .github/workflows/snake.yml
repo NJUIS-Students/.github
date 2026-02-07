@@ -1,32 +1,29 @@
 name: Generate Snake
 
 on:
-  # 设置定时任务：每天 UTC 时间 0 点（北京时间早上 8 点）运行
   schedule:
     - cron: "0 0 * * *" 
-  
-  # 允许你手动点击按钮触发（方便测试）
   workflow_dispatch:
+
+# 💡 必须加上这一段，否则 Action 没有权限把生成的图片推送到 output 分支
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      
-      # 这一步生成贪吃蛇动画
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk/svg-only@v3
         with:
-          # 【重要】把这里改成你们组织的用户名
           github_user_name: NJUIS-Students
-          # 生成的文件名
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 这一步把生成的文件推送到一个叫 output 的分支
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

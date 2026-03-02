@@ -22,16 +22,16 @@
 <!-- 3. 动态徽章按钮 -->
 <p>
   <a href="https://njuis-students.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=6A005F&height=110&section=header&text=%F0%9F%9A%80%20%E6%99%BA%E7%A7%91%E5%85%A8%E5%AE%B6%E6%A1%B6%20%7C%20One%20Click%20Enter&fontColor=ffffff&fontSize=34&animation=fadeIn&desc=%E7%82%B9%E5%87%BB%E7%9B%B4%E8%BE%BE%E4%B8%BB%E9%A1%B5&descAlignY=74&descSize=18" alt="智科全家桶主页入口" width="92%">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=6A005F&height=96&section=header&text=%E6%99%BA%E7%A7%91%E5%85%A8%E5%AE%B6%E6%A1%B6&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=%E7%AB%8B%E5%8D%B3%E8%BF%9B%E5%85%A5%E4%B8%BB%E9%A1%B5&descAlignY=72&descSize=17" alt="智科全家桶主页入口" width="88%">
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/NJUIS-Students/NJUIS-Students.github.io/stargazers">
-    <img src="https://img.shields.io/github/stars/NJUIS-Students/NJUIS-Students.github.io?style=for-the-badge&logo=github&logoColor=white&label=Star%20NJUIS%20Hub&color=6A005F&labelColor=101010" alt="⭐ Star NJUIS Hub">
+  <a href="https://github.com/NJUIS-Students/NJUIS-Students.github.io">
+    <img src="https://img.shields.io/github/stars/NJUIS-Students/NJUIS-Students.github.io?style=for-the-badge&logo=github&logoColor=white&label=%E2%AD%90%20Star%20NJUIS%20Hub&color=6A005F&labelColor=101010" alt="⭐ Star NJUIS Hub">
   </a>
-  <a href="https://github.com/NJUIS-Students/Resources/stargazers">
-    <img src="https://img.shields.io/github/stars/NJUIS-Students/Resources?style=for-the-badge&logo=github&logoColor=white&label=Star%20Resources&color=blue&labelColor=101010" alt="⭐ Star Resources">
+  <a href="https://github.com/NJUIS-Students/Resources">
+    <img src="https://img.shields.io/github/stars/NJUIS-Students/Resources?style=for-the-badge&logo=github&logoColor=white&label=%E2%AD%90%20Star%20Resources&color=blue&labelColor=101010" alt="⭐ Star Resources">
   </a>
   <a href="mailto:njuis_stu@163.com">
     <img src="https://img.shields.io/badge/📧_Contact-Email_Us-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">

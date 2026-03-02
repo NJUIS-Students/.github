@@ -22,7 +22,7 @@
 <!-- 3. 动态徽章按钮 -->
 <p>
   <a href="https://njuis-students.github.io">
-    <img src="https://raw.githubusercontent.com/NJUIS-Students/.github/main/profile/assets/home-cta.svg?v=20260302c" alt="智科全家桶主页入口" width="88%">
+    <img src="https://raw.githubusercontent.com/NJUIS-Students/.github/main/profile/assets/home-cta.svg?v=20260302d" alt="智科全家桶主页入口" width="88%">
   </a>
 </p>
 

@@ -22,13 +22,7 @@
 <!-- 3. 动态徽章按钮 -->
 <p>
   <a href="https://njuis-students.github.io">
-    <img src="https://img.shields.io/badge/🚀_智科全家桶-一键直达-6A005F?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101010" alt="智科全家桶一键直达">
-  </a>
-  <a href="https://github.com/NJUIS-Students/Resources">
-    <img src="https://img.shields.io/badge/💾_Repo-Course_Resources-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Resources">
-  </a>
-  <a href="mailto:njuis_stu@163.com">
-    <img src="https://img.shields.io/badge/📧_Contact-Email_Us-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">
+    <img src="https://img.shields.io/badge/🚀_智科全家桶-点击进入主页-6A005F?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101010" alt="智科全家桶主页入口" height="52">
   </a>
 </p>
 
@@ -38,6 +32,9 @@
   </a>
   <a href="https://github.com/NJUIS-Students/Resources/stargazers">
     <img src="https://img.shields.io/github/stars/NJUIS-Students/Resources?style=for-the-badge&logo=github&logoColor=white&label=Resources%20Stars&color=blue&labelColor=101010" alt="Resources Repo Stars">
+  </a>
+  <a href="mailto:njuis_stu@163.com">
+    <img src="https://img.shields.io/badge/📧_Contact-Email_Us-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">
   </a>
 </p>
 

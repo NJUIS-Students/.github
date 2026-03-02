@@ -22,16 +22,16 @@
 <!-- 3. 动态徽章按钮 -->
 <p>
   <a href="https://njuis-students.github.io">
-    <img src="https://img.shields.io/badge/智科全家桶-点击进入主页-6A005F?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101010" alt="智科全家桶主页入口" height="52">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=6A005F&height=110&section=header&text=%F0%9F%9A%80%20%E6%99%BA%E7%A7%91%E5%85%A8%E5%AE%B6%E6%A1%B6%20%7C%20One%20Click%20Enter&fontColor=ffffff&fontSize=34&animation=fadeIn&desc=%E7%82%B9%E5%87%BB%E7%9B%B4%E8%BE%BE%E4%B8%BB%E9%A1%B5&descAlignY=74&descSize=18" alt="智科全家桶主页入口" width="92%">
   </a>
 </p>
 
 <p>
   <a href="https://github.com/NJUIS-Students/NJUIS-Students.github.io/stargazers">
-    <img src="https://img.shields.io/github/stars/NJUIS-Students/NJUIS-Students.github.io?style=for-the-badge&logo=github&logoColor=white&label=%E6%99%BA%E7%A7%91%E5%85%A8%E5%AE%B6%E6%A1%B6%20Community%20Stars&color=6A005F&labelColor=101010" alt="⭐ Star NJUIS Hub">
+    <img src="https://img.shields.io/github/stars/NJUIS-Students/NJUIS-Students.github.io?style=for-the-badge&logo=github&logoColor=white&label=Star%20NJUIS%20Hub&color=6A005F&labelColor=101010" alt="⭐ Star NJUIS Hub">
   </a>
   <a href="https://github.com/NJUIS-Students/Resources/stargazers">
-    <img src="https://img.shields.io/github/stars/NJUIS-Students/Resources?style=for-the-badge&logo=github&logoColor=white&label=Resources%20Community%20Stars&color=blue&labelColor=101010" alt="⭐ Star Resources">
+    <img src="https://img.shields.io/github/stars/NJUIS-Students/Resources?style=for-the-badge&logo=github&logoColor=white&label=Star%20Resources&color=blue&labelColor=101010" alt="⭐ Star Resources">
   </a>
   <a href="mailto:njuis_stu@163.com">
     <img src="https://img.shields.io/badge/📧_Contact-Email_Us-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">

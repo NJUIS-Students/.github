@@ -22,7 +22,7 @@
 <!-- 3. 动态徽章按钮 -->
 <p>
   <a href="https://njuis-students.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=6A005F&height=96&section=header&text=%E6%99%BA%E7%A7%91%E5%85%A8%E5%AE%B6%E6%A1%B6&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=%E7%AB%8B%E5%8D%B3%E8%BF%9B%E5%85%A5%E4%B8%BB%E9%A1%B5&descAlignY=72&descSize=17" alt="智科全家桶主页入口" width="88%">
+    <img src="./assets/home-cta.svg" alt="智科全家桶主页入口" width="88%">
   </a>
 </p>
 

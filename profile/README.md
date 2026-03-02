@@ -22,7 +22,7 @@
 <!-- 3. 动态徽章按钮 -->
 <p>
   <a href="https://njuis-students.github.io">
-    <img src="https://img.shields.io/badge/📖_Wiki-Knowledge_Base-6A005F?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=101010" alt="Wiki">
+    <img src="https://img.shields.io/badge/🚀_智科全家桶-一键直达-6A005F?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101010" alt="智科全家桶一键直达">
   </a>
   <a href="https://github.com/NJUIS-Students/Resources">
     <img src="https://img.shields.io/badge/💾_Repo-Course_Resources-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Resources">
@@ -32,19 +32,26 @@
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/NJUIS-Students/NJUIS-Students.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/NJUIS-Students/NJUIS-Students.github.io?style=for-the-badge&logo=github&logoColor=white&label=%E6%99%BA%E7%A7%91%E5%85%A8%E5%AE%B6%E6%A1%B6%20Stars&color=6A005F&labelColor=101010" alt="智科全家桶 Repo Stars">
+  </a>
+  <a href="https://github.com/NJUIS-Students/Resources/stargazers">
+    <img src="https://img.shields.io/github/stars/NJUIS-Students/Resources?style=for-the-badge&logo=github&logoColor=white&label=Resources%20Stars&color=blue&labelColor=101010" alt="Resources Repo Stars">
+  </a>
+</p>
+
 </div>
 
 ---
 
-
 <div align="center">
   <h3>🤝 加入我们</h3>
-  <p>无论你是大一新生还是已经毕业的校友，只要你愿意分享，我们都欢迎你！</p>
-  
-
+  <p>无论你是大一新生，还是已经毕业的校友；只要你愿意分享，我们都欢迎你！</p>
+</div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A005F&height=100&section=footer&animation=fadeIn" width="100%" />
-<br>
-<sub>Maintained by NJU IS Students</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A005F&height=100&section=footer&animation=fadeIn" width="100%" />
+  <br>
+  <sub>Maintained by NJU IS Students</sub>
 </div>

@@ -2,35 +2,47 @@
   <title id="title">进入智科全家桶</title>
   <desc id="desc">精选资源、社区主页、一键直达</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#C8B3CE" stop-opacity="0.86"/>
-      <stop offset="50%" stop-color="#B696C0" stop-opacity="0.83"/>
-      <stop offset="100%" stop-color="#A27AAE" stop-opacity="0.86"/>
+    <linearGradient id="bg" x1="0" y1="0.15" x2="1" y2="0.85">
+      <stop offset="0%" stop-color="#CDBCD1" stop-opacity="0.84"/>
+      <stop offset="52%" stop-color="#B08DB8" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#9D73A8" stop-opacity="0.84"/>
     </linearGradient>
     <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.11"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.09"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="depth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6E4E7A" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#6E4E7A" stop-opacity="0.14"/>
+    </linearGradient>
     <radialGradient id="mist" cx="50%" cy="0%" r="78%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
     <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%">
-      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#6b4c77" flood-opacity="0.1"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#6b4c77" flood-opacity="0.08"/>
     </filter>
   </defs>
 
   <rect x="20" y="26" width="1160" height="168" rx="84" fill="url(#bg)" filter="url(#shadow)"/>
   <rect x="20" y="26" width="1160" height="168" rx="84" fill="url(#mist)"/>
+  <rect x="20" y="26" width="1160" height="168" rx="84" fill="url(#sheen)"/>
+  <rect x="20" y="26" width="1160" height="168" rx="84" fill="url(#depth)"/>
   <rect x="32" y="38" width="1136" height="54" rx="27" fill="url(#glow)"/>
-  <rect x="20.5" y="26.5" width="1159" height="167" rx="83.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1"/>
+  <rect x="20.5" y="26.5" width="1159" height="167" rx="83.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
 
   <g fill="#FFFFFF" font-family="Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" text-anchor="middle">
-    <text x="600" y="118" font-size="66" font-weight="800" letter-spacing="1">进入智科全家桶</text>
+    <text x="600" y="122" font-size="66" font-weight="800" letter-spacing="1">进入智科全家桶</text>
     <text x="600" y="176" font-size="26" font-weight="600" opacity="0.9">精选资源 · 社区主页 · 一键直达</text>
   </g>
 
-  <g transform="translate(1038 86)" fill="#FCFAFF" opacity="0.88">
-    <path d="M16 0 64 24 16 48 16 31 0 31 0 17 16 17Z"/>
+  <g transform="translate(1042 86)" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.82">
+    <path d="M2 24H56"/>
+    <path d="M34 6 56 24 34 42"/>
   </g>
 </svg>
